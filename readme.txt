@@ -1,5 +1,5 @@
 CS 725 - Foundations of Machine Learning course programming assignment
-Assignment Name : FFNN for classification and regression
+Long Assignment Name : FFNN for classification and regression
 
 contributors:
 Yashwant Singh Parihar, 22m0798
