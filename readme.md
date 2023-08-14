@@ -2,8 +2,6 @@
 
 ## Long Assignment: FFNN for Classification and Regression
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 This repository contains the code and documentation for the CS 725 course programming assignment on implementing Feedforward Neural Networks (FFNN) for both classification and regression tasks.
 
 ## Contributors
@@ -15,7 +13,7 @@ This repository contains the code and documentation for the CS 725 course progra
 
 ## Description
 
-In this assignment, we explore the implementation of Feedforward Neural Networks (FFNN) to solve classification and regression problems. The primary goal is to apply the concepts learned in the CS 725 course to practical machine learning tasks.
+In this assignment, we explore the implementation of Feedforward Neural Networks (FFNN) to solve classification and regression problems. The primary goal is to apply the concepts learned in the CS 725 course to practical machine-learning tasks.
 
 ## Features
 
